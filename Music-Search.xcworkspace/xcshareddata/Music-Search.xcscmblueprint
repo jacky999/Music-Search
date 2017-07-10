@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5E4A7E9FDA85A4C2F609051AE78360CE5F5649D5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "66F22FEA36821C4C69AC42855D3A755C35229BC0" : 9223372036854775807,
+    "5E4A7E9FDA85A4C2F609051AE78360CE5F5649D5" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "49F4DE64-8408-4607-A3C3-C857CB0AFDC5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "66F22FEA36821C4C69AC42855D3A755C35229BC0" : "Music-Search\/Pods\/",
+    "5E4A7E9FDA85A4C2F609051AE78360CE5F5649D5" : "Music-Search\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Music-Search",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Music-Search.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jacky999\/Music-Search.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5E4A7E9FDA85A4C2F609051AE78360CE5F5649D5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jacky999\/MusicSearch.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "66F22FEA36821C4C69AC42855D3A755C35229BC0"
+    }
+  ]
+}
